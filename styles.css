@@ -20,3 +20,11 @@ ul {
     font-size: 25px;
     font-family:'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
 }
+
+.cute-kitten {
+    width: 500px;
+    height: auto;
+
+    position: relative;
+    top: -250px;
+}
