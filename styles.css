@@ -21,10 +21,11 @@ ul {
     font-family:'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
 }
 
-.cute-kitten {
-    width: 500px;
-    height: auto;
+div {
+    background-color: lightyellow;
+    border-style: solid;
+    border-width: 2.5px;
 
-    position: relative;
-    top: -250px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
